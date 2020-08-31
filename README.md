@@ -9,6 +9,6 @@ Plan to use Language:
 
 # Roadmap to learn Web Design
 
-- https://alhaqi.com/blog/create-web-page-or-article-with-html
-- https://alhaqi.com/blog/design-web-page-using-html-and-css
+- [HTML basic tutorial with create a simple web page](https://alhaqi.com/blog/create-web-page-or-article-with-html)
+- [Design or style a web page using HTML & CSS](https://alhaqi.com/blog/design-web-page-using-html-and-css)
 - **Upcoming**
